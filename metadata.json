@@ -1,0 +1,8 @@
+{
+  "name": "chatbotcat",
+  "description": "A emotionally aware cat that can talk with a person.  There can be different cats each trained to help people with personal concerns.  Professionals should be the ones to train each cat, this demo is a geneal chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
